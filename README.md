@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Elias177Dev
 - 👀 I’m interested in motorcycles
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: https://discord.gg/uwQFpCrFgA
